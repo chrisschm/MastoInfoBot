@@ -1,0 +1,2 @@
+# MastoInfoBot
+Mastodon Bot
